@@ -5,7 +5,7 @@ import pickle
 import yaml
 from sklearn.ensemble import RandomForestClassifier
 
-train_data= pd.read_csv(r"E:\SRM_Projects\ML_pipeline_WP\data\processed\train_processed.csv")
+train_data= pd.read_csv(r"E:\SRM_Projects\ML_pipeline_WP_CC\waterpotability\data\processed\train_processed_mean.csv")
 #X_train= train_data.iloc[:,0:-1].values
 #Y_train= train_data.iloc[:,-1].values
 
