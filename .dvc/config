@@ -1,0 +1,4 @@
+[core]
+    remote = myremote
+['remote "myremote"']
+    url = C:\Users\SRIRAM~1\AppData\Local\Temp\dvc_waterpotability
